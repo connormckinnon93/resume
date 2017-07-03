@@ -1,0 +1,27 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "This a resume demonstration using ReactJS for Connor McKinnon",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/connormckinnon93/resume.git"
+  },
+  "keywords": [
+    "ReactJS",
+    "Bootstrap",
+    "HTML5",
+    "CSS3",
+    "JS",
+    "Resume"
+  ],
+  "author": "Connor McKinnon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/connormckinnon93/resume/issues"
+  },
+  "homepage": "https://github.com/connormckinnon93/resume#readme"
+}

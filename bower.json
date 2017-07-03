@@ -1,0 +1,30 @@
+{
+  "name": "resume",
+  "description": "This a resume demonstration using ReactJS for Connor McKinnon",
+  "main": "index.html",
+  "authors": [
+    "Connor McKinnon"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "ReactJS",
+    "Bootstrap",
+    "HTML5",
+    "CSS3",
+    "JS",
+    "Resume"
+  ],
+  "homepage": "https://github.com/connormckinnon93/resume",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "^15.6.1",
+    "babel": "^5.8.38"
+  }
+}
